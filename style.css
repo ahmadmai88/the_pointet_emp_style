@@ -1,0 +1,16 @@
+.dine_logo_i{
+ width: 100%;
+
+	
+}
+
+
+
+
+    @media (max-width:480px) {
+ width: 150px;
+ margin-left: -50px;
+ margin-top: -20px;
+        
+
+    }
